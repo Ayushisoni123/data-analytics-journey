@@ -11,9 +11,9 @@ Building toward Google Data Analytics Apprenticeship 2027.
 - Google Data Analytics Certificate — Coursera
 - Pandas for Data Analysis
 
-## Projects In Progress
-- Indian Railways Ticket Waste Analyzer
-- MP Air Quality Trend Analysis
+## Projects 
+- [Indian Railways Ticket Waste Analyzer](https://github.com/Ayushisoni123/indian-railways-ticket-waste-analyzer)
+- MP Air Quality Trend Analysis — In Progress
 
 ## Tools
 Python | Pandas | PostgreSQL | Matplotlib | Google Looker Studio
